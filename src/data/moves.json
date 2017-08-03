@@ -1,0 +1,136 @@
+{
+	"moves": [
+{ 
+ 	 "name" : "ale maki",
+  	 "translation_fr" : "blocage circulaire extérieur, niveau bas ventre, avec le côté externe de l'avant-bras (côté cubitus)" 
+ },
+{ 
+ 	 "name" : "montong maki",
+  	 "translation_fr" : "blocage circulaire intérieur niveau plexus, côté jambe avant, avec le côté externe de l'avant-bras (côté cubitus)" 
+ },
+{ 
+ 	 "name" : "montong an maki",
+  	 "translation_fr" : "blocage circulaire intérieur niveau plexus, côté jambe arrière" 
+ },
+{ 
+ 	 "name" : "eulgoul maki",
+  	 "translation_fr" : "blocage ascendant niveau haut, avec le côté externe de l'avant-bras (côté cubitus)" 
+ },
+{ 
+ 	 "name" : "montong bakkat maki",
+  	 "translation_fr" : "blocage vers l’extérieur, avec le tranchant externe de l’avant-bras (coté cubitus et jambe avant)" 
+ },
+{ 
+ 	 "name" : "an montong bakkat maki",
+  	 "translation_fr" : "blocage vers l’extérieur, avec le tranchant externe de l’avant-bras (coté cubitus et jambe arrière)" 
+ },
+{ 
+ 	 "name" : "bakkat palmok montong maki",
+  	 "translation_fr" : "blocage vers l’extérieur, avec le tranchant interne de l’avant-bras (coté radius)" 
+ },
+{ 
+ 	 "name" : "an bakkat palmok montong maki",
+  	 "translation_fr" : "blocage vers l’extérieur, avec le tranchant interne de l’avant-bras (coté radius et jambe arrière)" 
+ },
+{ 
+ 	 "name" : "an palmok montong bakkat yop maki",
+  	 "translation_fr" : "blocage de profil, avec le tranchant externe de l’avant-bras (coté cubitus)" 
+ },
+{ 
+ 	 "name" : "bakkat palmok montong yop maki",
+  	 "translation_fr" : "blocage de profil, avec le tranchant interne de l'avant-bras (coté radius)" 
+ },
+{ 
+ 	 "name" : "keudeuro montong bakkat maki",
+  	 "translation_fr" : "blocage avec le tranchant externe de l’avant-bras (coté cubitus) , l’autre bras ramené en protection au plexus (paume vers le haut)" 
+ },
+{ 
+ 	 "name" : "keudeuro ale maki",
+  	 "translation_fr" : "blocage avec le tranchant externe de l’avant-bras (coté cubitus) niveau bas, l’autre bras ramené en protection au plexus (paume vers le haut)" 
+ },
+{ 
+ 	 "name" : "han sonnal ale maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (coté cubitus) niveau bas, l'autre bras plié à la ceinture" 
+ },
+{ 
+ 	 "name" : "han sonnal ale yop maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (coté cubitus) de profil, l'autre bras plié à la ceinture" 
+ },
+{ 
+ 	 "name" : "han sonnal montong maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (coté cubitus) buste à 45° niveau moyen, l'autre bras plié à la ceinture" 
+ },
+{ 
+ 	 "name" : "han sonnal montong an maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (coté cubitus et jambe arrière) buste à 45° niveau moyen, l'autre bras plié à la ceinture" 
+ },
+{ 
+ 	 "name" : "han sonnal montong yop maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (coté cubitus) de profil, niveau moyen, l'autre bras plié à la ceinture" 
+ },
+{ 
+ 	 "name" : "sonnal montong maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (niveau cubitus) buste à 45°, l'autre bras en protection au plexus" 
+ },
+{ 
+ 	 "name" : "sonnal montong yop maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (niveau cubitus) de profil, l'autre bras en protection au plexus (position joutchoum seugui)" 
+ },
+{ 
+ 	 "name" : "sonnal ale maki",
+  	 "translation_fr" : "blocage vers l'extérieur avec le trachant de main (niveau cubitus) buste à 45° niveau bas, l'autre bras en protection au plexus" 
+ },
+{ 
+ 	 "name" : "batangson ale maki",
+  	 "translation_fr" : "blocage descendant (écrasant) avec la paume de la main, niveau bas ventre" 
+ },
+{ 
+ 	 "name" : "batangson montong maki",
+  	 "translation_fr" : "blocage vers l’intérieur (horizontal) avec la paume de la main, niveau plexus" 
+ },
+{ 
+ 	 "name" : "batangson montong an maki",
+  	 "translation_fr" : "blocage vers l’intérieur (horizontal) avec la paume de la main, niveau moyen, côté jambe arrière" 
+ },
+{ 
+ 	 "name" : "batangson montong nelyeu maki",
+  	 "translation_fr" : "blocage descendant (écrasant) avec la paume de la main, niveau moyen" 
+ },
+{ 
+ 	 "name" : "montong hetcheu maki",
+  	 "translation_fr" : "blocage double de dégagement, niveau moyen, tranchant externe des avant-bras (coté cubitus) vers l'extérieur" 
+ },
+{ 
+ 	 "name" : "montong palmok hetcheu maki",
+  	 "translation_fr" : "blocage double de dégagement niveau moyen, tranchant interne des avant-bras (coté radius) vers l'extérieur" 
+ },
+{ 
+ 	 "name" : "eut keuro ale maki",
+  	 "translation_fr" : "blocage niveau bas avec le tranchant externe de l'avant bras (coté cubitus) , l'autre bas se positionne sur le tanchant interne en renfort" 
+ },
+{ 
+ 	 "name" : "kawi maki",
+  	 "translation_fr" : "double blocage simultané de face (en ciseau) , vers l’extérieur avec le tranchant des avants bras, niveau moyen (coté radius ) et niveau bas (coté cubitus)" 
+ },
+{ 
+ 	 "name" : "owé santeul maki",
+  	 "translation_fr" : "double blocage simultané de profil, vers l'extérieur, avec le tranchant des avants bras niveau haut (coté radius ) et niveau bas (coté cubitus)" 
+ },
+{ 
+ 	 "name" : "han sonnal biteurô eulgoul maki",
+  	 "translation_fr" : "blocage circulaire, niveau haut avec le tranchant de la main (hypoténar), côté jambe arrière, dans un mouvement de torsion du buste" 
+ },
+{ 
+ 	 "name" : "keudeuro batangson montong an maki",
+  	 "translation_fr" : "blocage niveau moyen vers l’intérieur avec la paume de la main, l’autre bras en soutien sous le coude, au niveau plexus" 
+ },
+{ 
+ 	 "name" : "keumgan maki",
+  	 "translation_fr" : "blocage double simultané de profil, ale maki & eulgoul maki" 
+ },
+{ 
+ 	 "name" : "ap tchagi",
+  	 "translation_fr" : "coup de pied vers l'avant" 
+ }
+	]
+}

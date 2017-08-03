@@ -1,0 +1,60 @@
+{
+	"words" : [
+		{ 
+			 "name" : "ale",
+			 "translation_fr" : "niveau bas (ventre)" 
+		 },
+		{ 
+			 "name" : "montong",
+			 "translation_fr" : "niveau moyen (plexus)" 
+		 },
+		{ 
+			 "name" : "eulgoul",
+			 "translation_fr" : "niveau haut (nez)" 
+		 },
+		{ 
+			 "name" : "bakkat",
+			 "translation_fr" : "vers l'extérieur" 
+		 },
+		{ 
+			 "name" : "maki",
+			 "translation_fr" : "blocage" 
+		 },
+		{ 
+			 "name" : "an",
+			 "translation_fr" : "vers l'intérieur" 
+		 },
+		{ 
+			 "name" : "tchigui",
+			 "translation_fr" : "mouvement d'attaque avec impact fouetté" 
+		 },
+		{ 
+			 "name" : "jileugui",
+			 "translation_fr" : "mouvement d'attaque en percussion" 
+		 },
+		{ 
+			 "name" : "baro",
+			 "translation_fr" : "bras inversé à la jambe avant" 
+		 },
+		{ 
+			 "name" : "bande",
+			 "translation_fr" : "bras du coté de la jambe avant" 
+		 },
+		{ 
+			 "name" : "yop",
+			 "translation_fr" : "de côté" 
+		 },
+		{ 
+			 "name" : "dolyeu",
+			 "translation_fr" : "mouvement circulaire" 
+		 },
+		{ 
+			 "name" : "nelyeu",
+			 "translation_fr" : "mouvement descendant" 
+		 },
+		{ 
+			 "name" : "eulyeu",
+			 "translation_fr" : "mouvement ascendant" 
+		 }
+	 ]
+}
